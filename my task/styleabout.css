@@ -1,0 +1,92 @@
+body{background-color: black!important}
+
+nav{width: 100%!important;padding: 0px!important}
+
+.navbar{position: fixed!important;background-color: darkred!important;color: white;z-index: 1111;top: 0}
+
+.navbar a,.navbar a:focus{color: white!important;}
+
+.navbar a:hover{background-color: gray;color:black!important}
+
+.nav-link{color: white!important;}
+
+.nav-link:hover{background-color: gray;color:black!important}
+
+.form-control:focus{border: 3px solid red!important}
+
+.dropdown:hover  .dropdown-menu{display: block}
+
+.dropdown-menu  a{color: black!important}
+
+.dropdown{list-style-type: none}
+
+form{width: 60%;margin: auto;border:1px solid black;padding: 10px;background-image: url(m.png);}
+
+input ,select{display: block;margin: 20px;padding: 10px;border-radius: 10px;border: none;width: 90%}
+
+input[type=radio]{width: 20%;display: inline-block}
+
+.wd-80{width: 80%}
+
+.ma-50px{margin: 50px}
+
+.ma-20px{margin: 20px}
+
+.ma-tp-50px{margin-top: 50px}
+
+.pa-20px{padding: 20px}
+
+.ba-clr-dk-rd{background-color: darkred!important}
+
+.clr-gs-wht{color: ghostwhite}
+
+.brd-3px-sld bck{border: 3px solid white}
+
+.tx-rt{text-align: right}
+
+flt-rt{float: right}
+
+.heit-at{height: 80vh}
+
+.cl-rd{color: red}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
